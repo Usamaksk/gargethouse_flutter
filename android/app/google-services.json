@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055428418854",
+    "project_id": "gargethouse",
+    "storage_bucket": "gargethouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055428418854:android:cec9b8216e481ae694b5e7",
+        "android_client_info": {
+          "package_name": "com.example.garget_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB861HYn2zuR-Y7lLwIwU0URbtWlX_Kr-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055428418854:android:c9d3939ee61f142194b5e7",
+        "android_client_info": {
+          "package_name": "com.example.gargethouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB861HYn2zuR-Y7lLwIwU0URbtWlX_Kr-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
